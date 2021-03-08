@@ -1,0 +1,4 @@
+He,she,it This, That => Does
+I, We, You They, These => Do
+
+Present Simple Tense
